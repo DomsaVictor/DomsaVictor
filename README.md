@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DomsaVictor
 - 👀 I’m interested in Robotics and AI.
 - 🌱 I’m currently learning Automation and Control Engineering at Techincal University of Cluj Napoca
+- :robot: I'm currently working on Graph Neural Networks in Pytorch-Geometric
 - 📫 How to reach me? domsavictor@gmail.com / domsavictor@yahoo.com
